@@ -1,0 +1,16 @@
+1. Verify the user is able to land on homepage (appropriate page) by entering the valid username and valid password.
+2. Verify the user is not able to login by entering the invalid username and invalid password and verify the error message for invalid credentials.
+3. Verify the user is not able to login by entering the blank username and invalid password and verify the error message for invalid credentials.
+4. Verify the user is not able to login by entering the invalid username and blank password and verify the error message for invalid credentials.
+5. Verify the user is not able to login with blank username and password and verify the error message.
+6. Verify that the password entered is in encrypted form.
+7. Verify whether the floating labels like username and password are dissappeared when user enters a value.
+8. Verify the login functionality with valid credentials is successful while using IE browser.
+9. Verify the login functionality with valid credentials is successful while using chrome browser.
+10.Verify the login functionality with valid credentials is successful while using Edge browser.
+11.Verify the login functionality when the cookies are turned off for the browser.
+12.Verify the position of the fields on the login page and are displayed without any break.
+13.Verify if the user is able to enter value in username text field.
+14.Verify if the user is able to enter value in password text field.
+15.Verify the login button is enabled to click when username and password are entered.
+16.Verify whether the username and password textboxes have a minimum and maximum length.
