@@ -9,5 +9,7 @@ Instructions to run :
 java -cp bin;jars\* org.testng.TestNG testng.xml
 
 Note: Last Test script is designed to fail wantedly for checking screenshots.
+Screenshots: ..\Sample Project\Screenshots
 Test reports : ..\Sample Project\test-output\Test Login(Standard TestNG reports)
+
 Test data:..\Sample Project\src\testdata
